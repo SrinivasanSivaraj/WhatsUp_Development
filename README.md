@@ -1,2 +1,2 @@
 # WhatsUp_Development
-This is to develop the sample application
+This is to develop the sample chat application
