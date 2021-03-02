@@ -11,3 +11,7 @@ Author: Srinivasan
 4. Attachments (Images, Video, Audio)
 
 5. Hiding profile
+
+6. Adding the audio call feature
+
+7. Adding the Video call feature
